@@ -1,7 +1,7 @@
 # Projeto de IP
 
 
-Comunicação entre jogos vai ser dada através do socket.
+Comunicação entre jogos vai ser dada através de sockets.
 
 Compilando e rodando:
 # Compilando o server:
@@ -14,5 +14,3 @@ Compilando e rodando:
 	$ ./server
 # Rodando client:
 	$ ./client
-	
-O nome dos arquivos podem ser modificados no arquivo makefile
